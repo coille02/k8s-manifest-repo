@@ -1,4 +1,4 @@
-name: "ArgoCD sync"
+name: "ArgoCD Sync"
 on: "push"
 
 jobs:
